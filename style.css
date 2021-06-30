@@ -253,6 +253,17 @@ font-size: 18px;
 width: 20px;
 margin: 10px;
 }
+.un li
+{
+    list-style: none;
+    color: #fff;
+}
+.un li::before 
+{
+    content: "•"; color: #03a9f4;
+    margin: 10px;
+}
+
 @media (min-width:1000px)
 {
     .about .box .year
