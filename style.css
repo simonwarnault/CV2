@@ -265,7 +265,7 @@ margin: 10px;
 
 .txt-rotate
 {
-    font-size: 40px;
+    font-size: 35px;
     color: #003147;
     text-align: center;
 }
@@ -290,6 +290,7 @@ margin: 10px;
         grid-template-columns: repeat(2,1fr);
     }
 }
+
 @media (min-width:600px)
 {
     .about .box .year

@@ -48,4 +48,4 @@ class TxtRotate {
         new TxtRotate(elements[i], JSON.parse(toRotate), period);
       }
     }
-    }
+}
