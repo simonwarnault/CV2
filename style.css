@@ -263,10 +263,11 @@ margin: 10px;
     margin: 10px;
 }
 
-h1
+.txt-rotate
 {
-    text-align: center;
+    font-size: 40px;
     color: #003147;
+    text-align: center;
 }
 
 @media (min-width:1000px)
