@@ -1,4 +1,4 @@
-class TxtRotate {
+//class TxtRotate {
     constructor(el, toRotate, period) {
         this.toRotate = toRotate;
         this.el = el;
